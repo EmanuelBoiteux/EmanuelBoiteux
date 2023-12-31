@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Emanuel, I am a Full Stack developer from Argentina, and I study Computer Science at university.
+
+
+
 <!--
 **EmanuelBoiteux/EmanuelBoiteux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
